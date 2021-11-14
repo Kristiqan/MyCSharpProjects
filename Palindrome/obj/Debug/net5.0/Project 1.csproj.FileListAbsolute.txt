@@ -1,0 +1,16 @@
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\Project 1.csproj.AssemblyReference.cache
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\Project 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\Project 1.AssemblyInfoInputs.cache
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\Project 1.AssemblyInfo.cs
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\Project 1.csproj.CoreCompileInputs.cache
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\bin\Debug\net5.0\Project 1.exe
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\bin\Debug\net5.0\Project 1.deps.json
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\bin\Debug\net5.0\Project 1.runtimeconfig.json
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\bin\Debug\net5.0\Project 1.runtimeconfig.dev.json
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\bin\Debug\net5.0\Project 1.dll
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\bin\Debug\net5.0\ref\Project 1.dll
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\bin\Debug\net5.0\Project 1.pdb
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\Project 1.dll
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\ref\Project 1.dll
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\Project 1.pdb
+D:\MediaFiles\Programming(VisualStudio2022)\Project 1\obj\Debug\net5.0\Project 1.genruntimeconfig.cache
