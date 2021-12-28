@@ -1,0 +1,14 @@
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\ReverseStringProgram.exe
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\ReverseStringProgram.deps.json
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\ReverseStringProgram.runtimeconfig.json
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\ReverseStringProgram.runtimeconfig.dev.json
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\ReverseStringProgram.dll
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\ReverseStringProgram.pdb
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\ReverseStringProgram.csproj.AssemblyReference.cache
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\ReverseStringProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\ReverseStringProgram.AssemblyInfoInputs.cache
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\ReverseStringProgram.AssemblyInfo.cs
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\ReverseStringProgram.csproj.CoreCompileInputs.cache
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\ReverseStringProgram.dll
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\ReverseStringProgram.pdb
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\ReverseStringProgram.genruntimeconfig.cache

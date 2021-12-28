@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86c870ea-41de-4d61-9c3c-c9a5af509ab6": {
+      "ProjectGuid": "86c870ea-41de-4d61-9c3c-c9a5af509ab6",
+      "DisplayName": "ReverseStringProgram",
+      "ColorIndex": 0
+    },
+    "b5f23e36-01ba-4237-99ff-fa7769f3d6ea": {
+      "ProjectGuid": "b5f23e36-01ba-4237-99ff-fa7769f3d6ea",
+      "DisplayName": "ReplaceWordsProgram",
+      "ColorIndex": 1
+    },
+    "b1be6092-a9c6-4336-9cab-e90c37640793": {
+      "ProjectGuid": "b1be6092-a9c6-4336-9cab-e90c37640793",
+      "DisplayName": "Regex",
+      "ColorIndex": 2
+    },
+    "af450152-99fa-4758-b164-2df7008d8a61": {
+      "ProjectGuid": "af450152-99fa-4758-b164-2df7008d8a61",
+      "DisplayName": "DoorLogger",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

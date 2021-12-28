@@ -1,0 +1,14 @@
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\Homework 28.12.21.exe
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\Homework 28.12.21.deps.json
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\Homework 28.12.21.runtimeconfig.json
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\Homework 28.12.21.runtimeconfig.dev.json
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\Homework 28.12.21.dll
+D:\Programming(VSCode)\Homework 28.12.21\bin\Debug\netcoreapp3.1\Homework 28.12.21.pdb
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\Homework 28.12.21.csproj.AssemblyReference.cache
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\Homework 28.12.21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\Homework 28.12.21.AssemblyInfoInputs.cache
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\Homework 28.12.21.AssemblyInfo.cs
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\Homework 28.12.21.csproj.CoreCompileInputs.cache
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\Homework 28.12.21.dll
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\Homework 28.12.21.pdb
+D:\Programming(VSCode)\Homework 28.12.21\obj\Debug\netcoreapp3.1\Homework 28.12.21.genruntimeconfig.cache
