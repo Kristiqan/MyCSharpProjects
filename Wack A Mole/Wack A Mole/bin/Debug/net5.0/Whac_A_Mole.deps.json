@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Whac_A_Mole/1.0.0": {
+        "runtime": {
+          "Whac_A_Mole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Whac_A_Mole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

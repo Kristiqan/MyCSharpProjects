@@ -1,0 +1,16 @@
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Wack A Mole.exe
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Wack A Mole.deps.json
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Wack A Mole.runtimeconfig.json
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Wack A Mole.runtimeconfig.dev.json
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Wack A Mole.dll
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\ref\Wack A Mole.dll
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Wack A Mole.pdb
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Wack A Mole.csproj.AssemblyReference.cache
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Wack A Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Wack A Mole.AssemblyInfoInputs.cache
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Wack A Mole.AssemblyInfo.cs
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Wack A Mole.csproj.CoreCompileInputs.cache
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Wack A Mole.dll
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\ref\Wack A Mole.dll
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Wack A Mole.pdb
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Wack A Mole.genruntimeconfig.cache

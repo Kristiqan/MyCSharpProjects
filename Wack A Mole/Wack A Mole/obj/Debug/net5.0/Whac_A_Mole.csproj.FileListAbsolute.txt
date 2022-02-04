@@ -1,0 +1,16 @@
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Whac_A_Mole.exe
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Whac_A_Mole.deps.json
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Whac_A_Mole.runtimeconfig.json
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Whac_A_Mole.runtimeconfig.dev.json
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Whac_A_Mole.dll
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\ref\Whac_A_Mole.dll
+D:\Programming(VSCode)\Wack A Mole\bin\Debug\net5.0\Whac_A_Mole.pdb
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Whac_A_Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Whac_A_Mole.AssemblyInfoInputs.cache
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Whac_A_Mole.AssemblyInfo.cs
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Whac_A_Mole.csproj.CoreCompileInputs.cache
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Whac_A_Mole.dll
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\ref\Whac_A_Mole.dll
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Whac_A_Mole.pdb
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Whac_A_Mole.genruntimeconfig.cache
+D:\Programming(VSCode)\Wack A Mole\obj\Debug\net5.0\Whac_A_Mole.csproj.AssemblyReference.cache
