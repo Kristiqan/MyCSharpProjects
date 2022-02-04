@@ -1,0 +1,14 @@
+D:\Programming(VSCode)\Main.cs\bin\Debug\netcoreapp3.1\Main.cs.exe
+D:\Programming(VSCode)\Main.cs\bin\Debug\netcoreapp3.1\Main.cs.deps.json
+D:\Programming(VSCode)\Main.cs\bin\Debug\netcoreapp3.1\Main.cs.runtimeconfig.json
+D:\Programming(VSCode)\Main.cs\bin\Debug\netcoreapp3.1\Main.cs.runtimeconfig.dev.json
+D:\Programming(VSCode)\Main.cs\bin\Debug\netcoreapp3.1\Main.cs.dll
+D:\Programming(VSCode)\Main.cs\bin\Debug\netcoreapp3.1\Main.cs.pdb
+D:\Programming(VSCode)\Main.cs\obj\Debug\netcoreapp3.1\Main.cs.csproj.AssemblyReference.cache
+D:\Programming(VSCode)\Main.cs\obj\Debug\netcoreapp3.1\Main.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming(VSCode)\Main.cs\obj\Debug\netcoreapp3.1\Main.cs.AssemblyInfoInputs.cache
+D:\Programming(VSCode)\Main.cs\obj\Debug\netcoreapp3.1\Main.cs.AssemblyInfo.cs
+D:\Programming(VSCode)\Main.cs\obj\Debug\netcoreapp3.1\Main.cs.csproj.CoreCompileInputs.cache
+D:\Programming(VSCode)\Main.cs\obj\Debug\netcoreapp3.1\Main.cs.dll
+D:\Programming(VSCode)\Main.cs\obj\Debug\netcoreapp3.1\Main.cs.pdb
+D:\Programming(VSCode)\Main.cs\obj\Debug\netcoreapp3.1\Main.cs.genruntimeconfig.cache
